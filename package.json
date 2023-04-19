@@ -1,0 +1,36 @@
+{
+  "name": "cinephile",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.15",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "firebase": "^9.19.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-router-dom": "^6.10.0",
+    "react-stars": "^2.2.5",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "dotenv": "^16.0.3",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.0",
+    "vite": "^4.2.0"
+  }
+}
